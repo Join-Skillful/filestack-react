@@ -1,5 +1,5 @@
 {
-  "name": "@skillful/filestack-react",
+  "name": "@the-commons/filestack-react",
   "version": "4.1.0",
   "description": "Official React component for Filestack - API and content management system that makes it easy to add powerful file uploading and transformation capabilities to any web or mobile application.",
   "author": "filestack",
@@ -41,8 +41,8 @@
     "release": "standard-version"
   },
   "peerDependencies": {
-    "react": "^17.0.2",
-    "react-dom": "^17.0.2"
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
   },
   "devDependencies": {
     "@testing-library/react": "^12.1.0",
@@ -68,16 +68,16 @@
     "microbundle-crl": "^0.13.10",
     "npm-run-all": "^4.1.5",
     "prettier": "^2.0.4",
-    "react": "^17.0.2",
-    "react-dom": "^17.0.2",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
     "react-scripts": "^3.4.1",
-    "react-test-renderer": "^17.0.2",
+    "react-test-renderer": "^18.2.0",
     "standard-version": "^9.0.0"
   },
   "files": [
     "dist"
   ],
   "dependencies": {
-    "filestack-js": "^3.20.0"
+    "filestack-js": "^3.25.0"
   }
 }
